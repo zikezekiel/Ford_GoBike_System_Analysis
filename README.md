@@ -26,4 +26,4 @@
 
 > The average duration of trips is longer on Saturday and Sunday though Saturday and Sunday had the least number of trips.
 
-> Longer trips are taken by customer users, _other_ gender and members who do not share bikes during the trip.# Ford_GoBike_System_Analysis
+> Longer trips are taken by customer users, _other_ gender and members who do not share bikes during the trip.
